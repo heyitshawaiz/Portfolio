@@ -1,8 +1,6 @@
 # Portfolio
-> 
+> https://heyitshawaiz.github.io/Portfolio/
 ### Website Preview
-#### Home Page
-
 #### About Page
 <img src="website_images/AboutPage.png" width="900">
 
