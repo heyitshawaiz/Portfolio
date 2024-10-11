@@ -1,5 +1,5 @@
 # Portfolio
->
+> 
 ### Website Preview
 #### Home Page
 
@@ -9,18 +9,18 @@
 #### Projects Page
 <img src="website_images/ProjectPage.png" width="900">
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+## Features 
+> Fully Responsive\
+> Valid HTML5 & CSS3\
+> Typing animation using `Typed.js`\
+> Easy to modify
 
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+## Sections 
+> About\
+>  Interests\
+>  Education\
+>  Online Certification\
+>  Projects \
+>  Skills \
+>  Resume\
+>  Contact Info
